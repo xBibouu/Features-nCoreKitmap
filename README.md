@@ -97,4 +97,5 @@ Avec cette fonctionnalité, les joueurs peuvent obtenir une pioche évolutive qu
 
 *Ce README fournit un aperçu complet des fonctionnalités offertes par nCoreKitmapV1 et devrait vous aider à comprendre et utiliser les différentes fonctionnalités du Core.*
 
-## Dépendant de customies et EconomyAPI le prix est fixé à 40€, pour tout achat veuillez contacter xbibou sur discord ! 
+## Dépendant de customies et EconomyAPI le prix est fixé à 40€. 
+Pour tout achat veuillez contacter **xbibou** sur discord ! 
