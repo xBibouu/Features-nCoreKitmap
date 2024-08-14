@@ -1,0 +1,4 @@
+repair: "§aTous vos items ont été réparés"
+noitems: "§cAucun item à réparer dans votre inventaire"
+cooldown-msg: "§cVous devez attendre encore {remaining_time} secondes avant d'utiliser la commande"
+cooldown: 3600

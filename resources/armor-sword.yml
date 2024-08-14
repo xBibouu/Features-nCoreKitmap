@@ -1,0 +1,81 @@
+render-armor: 32
+render-sword: 32
+
+armors:
+  - name: "Casque un"
+    texture: "casque_un"
+    identifier: "nephelia:casque_un"
+    defensePoints: 1
+    durability: 1000
+    armorSlot: "helmet"
+    toughness: 0
+    fireproof: true
+  - name: "Plastron un"
+    texture: "plastron_un"
+    identifier: "nephelia:plastron_un"
+    defensePoints: 1
+    durability: 1000
+    armorSlot: "chestplate"
+    toughness: 0
+    fireproof: true
+  - name: "Pantalon un"
+    texture: "pantalon_un"
+    identifier: "nephelia:pantalon_un"
+    defensePoints: 1
+    durability: 1000
+    armorSlot: "leggings"
+    toughness: 0
+    fireproof: true
+  - name: "Bottes un"
+    texture: "botte_un"
+    identifier: "nephelia:botte_un"
+    defensePoints: 1
+    durability: 1000
+    armorSlot: "boots"
+    toughness: 0
+    fireproof: true
+  - name: "Casque deux"
+    texture: "casque_deux"
+    identifier: "nephelia:casque_deux"
+    defensePoints: 2
+    durability: 2000
+    armorSlot: "helmet"
+    toughness: 0
+    fireproof: true
+  - name: "Plastron deux"
+    texture: "plastron_deux"
+    identifier: "nephelia:plastron_deux"
+    defensePoints: 2
+    durability: 2000
+    armorSlot: "chestplate"
+    toughness: 0
+    fireproof: true
+  - name: "Pantalon deux"
+    texture: "pantalon_deux"
+    identifier: "nephelia:pantalon_deux"
+    defensePoints: 2
+    durability: 2000
+    armorSlot: "leggings"
+    toughness: 0
+    fireproof: true
+  - name: "Bottes deux"
+    texture: "botte_deux"
+    identifier: "nephelia:botte_deux"
+    defensePoints: 2
+    durability: 2000
+    armorSlot: "boots"
+    toughness: 0
+    fireproof: true
+swords:
+  - name: "Epee un"
+    texture: "epee_un"
+    identifier: "nephelia:epee_un"
+    maxDurability: 2000
+    attackPoints: 2
+    toolTier: "wood"
+  - name: "Epee deux"
+    texture: "epee_deux"
+    identifier: "nephelia:epee_deux"
+    maxDurability: 2000
+    attackPoints: 2
+    toolTier: "wood"

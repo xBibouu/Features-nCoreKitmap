@@ -1,0 +1,33 @@
+pioche:
+  name: "Pioche §aEvolutive"
+  texture: "pioche_custom"
+  identifier: "glaciriumitems:pioche_custom"
+  maxDurability: 2031000
+  destroySpeed: 12
+  toolTier: "netherite"
+  attackPoints: 5
+  lore: "§r§aNiveau: §f{niveau} \n§r§aBlocs cassés: §f{blocks} \n§r§aObjectif: §f{objectif}"
+  title: "§aNIVEAU SUPERIEUR"
+  subtitle: "Vous débloquez §e{enchant} §fniveau §e{niveau}"
+  levels:
+    1: "150"
+    2: "750"
+    3: "3750"
+    4: "7500"
+    5: "15000"
+    6: "17500"
+    7: "26000"
+    8: "90000"
+    9: "200000"
+    10: "300000"
+  rewards:
+    1: "efficiency:1"
+    2: "efficiency:2"
+    3: "efficiency:3"
+    4: "efficiency:4"
+    5: "efficiency:5"
+    6: "efficiency:6"
+    7: "efficiency:7"
+    8: "efficiency:8"
+    9: "efficiency:9"
+    10: "efficiency:10"

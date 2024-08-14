@@ -1,0 +1,21 @@
+settings:
+  combat-time: 10
+  updatePlayerCombat: true
+  killOnDisconnectCombat: true
+  banned-commands:
+    - "spawn"
+    - "f"
+    - "shop"
+messages:
+  combat:
+    messageType: "message"
+    message: "§cVous êtes maintenant en combat pendant {s} seconde(s), ne vous déconnectez pas ou vous serez tué"
+  expired:
+    messageType: "message"
+    message: "§cVous n'êtes plus en combat"
+  no-command:
+    messageType: "message"
+    message: "§cVous ne pouvez pas éxecuter la commande {COMMAND} en étant en combat"
+  notice:
+    messageType: "popup"
+    message: "§aCombat : {s} seconde(s)"

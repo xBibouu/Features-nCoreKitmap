@@ -1,0 +1,42 @@
+inventory_full: "§cVous n'avez pas assez de place dans votre inventaire"
+no_content: "§cVous n'avez pas les items demandé dans votre inventaire"
+negative_value: "§cLa quantité doit être supérieur à 0"
+shop_item: "§aVous avez acheté {count} {name} pour {money}$"
+sell_item: "§aVous avez vendu {count} {name} pour {money}$"
+is_numeric: "§cLa quantité doit être numérique"
+no_money: "§cVous n'avez pas assez de money"
+
+money: EconomyAPI
+
+title: "Shop"
+
+label: "Choisissez si vous voulez acheter ou vendre\nLe prix d'achat est de §6{shop}$/u\n§fLe prix de vente est de §6{sell}$/u\n§fVous avez §6{count} {name} §7dans votre inventaire"
+dropdown: "Type d'opération:"
+dropdown_array: ["Achat", "Vente"]
+input: "Quantité:"
+shop:
+  Minage:
+    - item: diamond
+      name: "§bDiamant"
+      texture: "textures/items/diamond"
+      buy_price: 100
+      sell_price: 65
+
+    - item: emerald
+      name: "§aEmeraude"
+      texture: "textures/items/emerald"
+      buy_price: 100
+      sell_price: 65
+
+  Farm:
+    - item: pumpkin
+      name: "§6Citrouille"
+      texture: "textures/blocks/pumpkin_side"
+      buy_price: 100
+      sell_price: 37
+
+    - item: melon
+      name: "§aPastèque"
+      texture: "textures/items/melon"
+      buy_price: 50
+      sell_price: 12

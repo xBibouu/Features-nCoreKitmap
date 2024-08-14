@@ -1,0 +1,22 @@
+atout-force: true
+atout-speed: true
+atout-resistance: true
+atout-haste: true
+atout-haste2: true
+
+perm-force: "force"
+perm-speed: "speed"
+perm-resistance: "resistance"
+perm-haste: "haste"
+perm-haste2: "haste2"
+
+noPerm: "§cVous n'avez pas la permission"
+active: "§aVous avez bien équipé votre atout"
+desactive: "§cVous avez désactivé votre atout"
+
+titleMainMenu: "Atout"
+titleSpeedMenu: "Atout de Speed"
+titleForceMenu: "Atout de Force"
+titleResistanceMenu: "Atout de Resistance"
+titleHasteMenu: "Atout de Haste"
+titleHaste2Menu: "Atout de Haste2"

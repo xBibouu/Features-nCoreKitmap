@@ -1,0 +1,184 @@
+enchant-menu:
+  title: "Table d'enchantement"
+  headerText: "Sélectionnez l'enchantement à mettre"
+  itemHasNoEnchant: "§cL'item en main ne peut pas être enchanté"
+  enchantmentButton: "{enchant}\n§fPrix : §6{prix} {prix_type} §f/ level"
+  quitButton: "§cQuitter"
+
+enchanting-menu:
+  title: "{enchant}"
+  headerText: "§6- §fEntrez le niveau de l'enchantement"
+
+messages:
+  itemEnchanted: "§aVous avez bien enchanté votre item"
+  noMoney: "§cVous n'avez pas assez d'argent"
+  noXp: "§cVous n'avez pas assez d'xp"
+
+enchantments:
+  - enchant: "Protection"
+    max_level: 4
+    prix_type: "money"
+    prix_par_level: 642
+    tags:
+      - "armor"
+
+  - enchant: "Fire Protection"
+    max_level: 4
+    prix_type: "xp"
+    prix_par_level: 318
+    tags:
+      - "armor"
+
+  - enchant: "Feather Falling"
+    max_level: 4
+    prix_type: "money"
+    prix_par_level: 437
+    tags:
+      - "armor"
+
+  - enchant: "Blast Protection"
+    max_level: 4
+    prix_type: "money"
+    prix_par_level: 482
+    tags:
+      - "armor"
+
+  - enchant: "Projectile Protection"
+    max_level: 4
+    prix_type: "xp"
+    prix_par_level: 742
+    tags:
+      - "armor"
+
+  - enchant: "Thorns"
+    max_level: 3
+    prix_type: "money"
+    prix_par_level: 871
+    tags:
+      - "chestplate"
+      - "helmet"
+      - "leggings"
+      - "boots"
+
+  - enchant: "Respiration"
+    max_level: 3
+    prix_type: "xp"
+    prix_par_level: 392
+    tags:
+      - "helmet"
+
+  - enchant: "Sharpness"
+    max_level: 5
+    prix_type: "xp"
+    prix_par_level: 790
+    tags:
+      - "sword"
+      - "axe"
+
+  - enchant: "Knockback"
+    max_level: 2
+    prix_type: "money"
+    prix_par_level: 937
+    tags:
+      - "sword"
+
+  - enchant: "Fire Aspect"
+    max_level: 2
+    prix_type: "money"
+    prix_par_level: 749
+    tags:
+      - "sword"
+
+  - enchant: "Efficiency"
+    max_level: 5
+    prix_type: "xp"
+    prix_par_level: 570
+    tags:
+      - "block_tools"
+      - "shears"
+
+  - enchant: "Fortune"
+    max_level: 3
+    prix_type: "money"
+    prix_par_level: 285
+    tags:
+      - "block_tools"
+
+  - enchant: "Silk Touch"
+    max_level: 1
+    prix_type: "xp"
+    prix_par_level: 834
+    tags:
+      - "block_tools"
+
+  - enchant: "Unbreaking"
+    max_level: 3
+    prix_type: "money"
+    prix_par_level: 531
+    tags:
+      - "armor"
+      - "weapons"
+      - "fishing_rod"
+      - "shears"
+      - "flint_and_steel"
+      - "shield"
+      - "carrot_on_stick"
+      - "elytra"
+      - "brush"
+
+  - enchant: "Power"
+    max_level: 5
+    prix_type: "xp"
+    prix_par_level: 317
+    tags:
+      - "bow"
+
+  - enchant: "Punch"
+    max_level: 2
+    prix_type: "xp"
+    prix_par_level: 620
+    tags:
+      - "bow"
+
+  - enchant: "Flame"
+    max_level: 1
+    prix_type: "xp"
+    prix_par_level: 582
+    tags:
+      - "bow"
+
+  - enchant: "Infinity"
+    max_level: 1
+    prix_type: "xp"
+    prix_par_level: 542
+    tags:
+      - "bow"
+
+  - enchant: "Mending"
+    max_level: 1
+    prix_type: "xp"
+    prix_par_level: 892
+    tags:
+      - "armor"
+      - "weapons"
+      - "fishing_rod"
+      - "shears"
+      - "flint_and_steel"
+      - "shield"
+      - "carrot_on_stick"
+      - "elytra"
+      - "brush"
+
+  - enchant: "Curse of Vanishing"
+    max_level: 1
+    prix_type: "xp"
+    prix_par_level: 153
+    tags:
+      - "all"
+
+  - enchant: "Swift Sneak"
+    max_level: 3
+    prix_type: "money"
+    prix_par_level: 845
+    tags:
+      - "leggings"

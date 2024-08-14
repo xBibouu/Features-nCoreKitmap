@@ -1,0 +1,36 @@
+keys_msg: "§6{key} §f: {number}\n"
+pas_de_cle: "§cVous n'avez pas de clé"
+cooldown: true
+cooldown-time: 1
+cooldown-message: "§6BOXS §f- §cVous devez attendre §6{secondes} §cseconde(s)"
+message-open: "{player} vient d'ouvrir une box {box} et reçu {item}"
+giveaway-message: "§6BOXS §f- Tout les joueurs viennent de recevoir §6{i}x clé(s) {box}"
+play-lightning: false
+play-particle: true
+propulse-joueur: true
+propulse: -1
+spawn-reward-entity: true
+
+boxs:
+  Test:
+    message: "{player} vient d'ouvrir la box Test"
+    texte: "§bBox Test"
+    position:
+      x: 19
+      y: 69
+      z: 9
+      world: '01'
+    drops:
+      - id: "golden_apple"
+        amount: 4
+
+  Test2:
+    message: "{player} vient d'ouvrir la box Test2"
+    texte: "§eBox Test2"
+    position:
+      x: 19
+      y: 69
+      z: 12
+      world: '01'
+    drops:
+      - id: "bow"

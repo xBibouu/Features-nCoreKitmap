@@ -1,0 +1,33 @@
+kits:
+  starter:
+    items:
+      - item: "diamond_sword"
+        count: 1
+        enchants:
+          - name: "sharpness"
+            level: 2
+      - item: "iron_chestplate"
+        count: 1
+        enchants:
+          - name: "protection"
+            level: 3
+      - item: "nephelia:soupe"
+        count: 64
+    cooldown: 86400
+    permission: "nephelia.starter"
+  grade:
+    items:
+      - item: "golden_sword"
+        count: 1
+        enchants:
+          - name: "sharpness"
+            level: 1
+      - item: "iron_chestplate"
+        count: 1
+        enchants:
+          - name: "protection"
+            level: 2
+      - item: "bread"
+        count: 16
+    cooldown: 86400
+    permission: "nephelia.grade"

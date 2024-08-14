@@ -1,0 +1,26 @@
+repair-costType: money
+rename-costType: xp
+
+repair-cost: 100
+rename-cost: 5
+
+form-title: "Enclume"
+form-subtitle: "Que voulez-vous faire"
+form-repairButton: "Repair\n§a100$"
+form-renameButton: "Renommer\n§a55 xp"
+form-button2: "§cQuitter"
+
+renameForm-title: "Renommer"
+renameForm-desc: "Mettez un nouveau nom pour l'item"
+
+no-money: "§cVous n'avez pas assez d'argent"
+no-xp: "§cVous n'avez pas assez d'xp"
+itemNoRepairable: "§cL'item en main ne peut pas être repair"
+itemAlreadyRepair: "§cL'item en main est déjà repair"
+itemRepair: "§aL'item en main a bien été repair"
+itemRenamed: "§aVous avez bien renommé votre item"
+no-customName: "§cMettez un nouveau nom valide ( non vide )"
+playSound: true
+
+applyDamageOnRepair: true
+applyDamageOnRename: true
